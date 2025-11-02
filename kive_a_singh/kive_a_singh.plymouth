@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=kive_a_singh
+Description= kive a singh?
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/kive_a_singh
+ScriptFile=/usr/share/plymouth/themes/kive_a_singh/kive_a_singh.script
